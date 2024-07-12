@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 
+<!-- Visitantes -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gt02-Sul&style=for-the-badge">
+</div>
 
 <!--
 **gt02-Sul/gt02-Sul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
