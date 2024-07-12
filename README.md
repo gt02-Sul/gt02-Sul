@@ -18,9 +18,12 @@
 
 <!-- Jogo da Cobrinha -->
 <div align="center">
-  <a href="https://github.com/gt02-Sul/snake-game">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-  </a>
+  <h2>Jogue o Jogo da Cobrinha</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="Jogo da Cobrinha" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <!--
